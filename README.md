@@ -1,5 +1,9 @@
 # Predictive Machine Learning Models of Credit Risk Analysis
 
+Link to Jupyter notebook below:
+
+https://github.com/philipMLdatascientist/Predictive-Machine-Learning-Models-of-Credit-Risk-Analysis/blob/main/CreditRiskDataAnalysisMachineLearningModels.ipynb
+
 ## Context
 
 Will the customer default on the loan?
